@@ -23,6 +23,12 @@ When using royalty-free images, it's crucial to read and follow the terms of use
 Additionally, you can consider hiring a professional photographer or purchasing premium stock images from sites like [Shutterstock](https://www.shutterstock.com/) or [iStock](https://www.istockphoto.com/) if you need more specific or higher-quality images for your template.
 
 
+### ------------------------
+*. **Free Image Resources**:
+- [pngwing](https://www.pngwing.com/):
+
+
+### ------------------------
 
 
 There are several websites that offer royalty-free images that you can use for your ecommerce HTML template. Here are some popular options:
