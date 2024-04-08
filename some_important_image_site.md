@@ -26,7 +26,8 @@ Additionally, you can consider hiring a professional photographer or purchasing 
 ### ------------------------
 *. **Free Image Resources**:
 - [pngwing](https://www.pngwing.com/):
-
+- https://storytale.io/browse/?isFree=true
+- https://undraw.co/illustrations
 
 ### ------------------------
 
